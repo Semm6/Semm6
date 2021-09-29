@@ -3,6 +3,9 @@
 ### I am a student currently learning web development.
 #
 
+### Socials
+
+#
 ### Languages and tools
 
 - Vscode
@@ -11,7 +14,7 @@
 - React
 - Javascript
 - GIT
-- MySQl
+- MySQL
 - Java
 - ASP.NET
 - Intellij 
