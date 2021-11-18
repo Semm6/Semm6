@@ -1,3 +1,7 @@
+
+<img src="https://i.postimg.cc/JhhZ35xs/mario.gif" width=1000 height=300></td>
+
+
 # Hi there my name is Sem de Wilde👋
 
 ### I am a student currently learning web development.
@@ -17,6 +21,5 @@
     <td><img src="https://i.postimg.cc/28Sc67t6/Intelli-J-IDEA-Icon-svg.png" width=75 height=75></td>
     <td><img src="https://i.postimg.cc/cLKF740G/My-SQL-Logo.png" width=75 height=75></td>
     <td><img src="https://i.postimg.cc/fLvCWVjm/5847f981cef1014c0b5e48be.png" width=75 height=75></td>
-    
   </tr>
  </table>
