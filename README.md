@@ -9,9 +9,12 @@
   
 ### GitHub stats
 
-<div float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semm6&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semm6&layout=compact&theme=radical" width="414"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Semm6&show_icons=true&theme=radical"/>
+
+### Most used languages
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semm6&layout=compact&theme=radical" width="496"/> 
 </div>
   
 ### Languages and tools
