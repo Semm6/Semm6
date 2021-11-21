@@ -4,7 +4,7 @@
 
 # Hi there my name is Sem de Wilde👋
 
-### I am a student currently learning web development.
+### I am a student currently learning IOS and web development.
 #
   
 ### GitHub stats
