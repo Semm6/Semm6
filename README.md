@@ -6,6 +6,10 @@
 
 ### I am a student currently learning IOS and web development.
 #
+
+### Profile visitors
+
+![Visitor Count](https://profile-counter.glitch.me/{Semm6}/count.svg)
   
 ### GitHub stats
 
